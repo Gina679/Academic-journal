@@ -15,7 +15,7 @@
 *认可度高*
 1. Journal of Econometrics（老师发过很多）https://www.sciencedirect.com/journal/journal-of-econometrics/issues （3.52）
 2. ECONOMETRICA （13.2）
-3. JOURNAL OF BUSINESS & ECONOMIC STATISTICS （5.24）
+3. JOURNAL OF BUSINESS & ECONOMIC STATISTICS https://www.tandfonline.com/toc/ubes20/current （5.24）
 4. The Review of Economics and Statistics （8.25）
 5. 	Review of Economic Studies （15.53）
 
